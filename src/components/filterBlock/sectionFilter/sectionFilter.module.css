@@ -1,0 +1,12 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    margin-right: 10px;
+}
+.section{
+    padding: 10px;
+    border-radius: 10px;
+}

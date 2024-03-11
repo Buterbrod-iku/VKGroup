@@ -1,0 +1,15 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.title{
+    font-family: Arial, serif;
+    margin: 20px;
+}
+.positionBlock{
+    width: 90vw;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}

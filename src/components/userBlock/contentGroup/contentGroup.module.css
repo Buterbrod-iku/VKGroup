@@ -1,0 +1,15 @@
+.content{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Calibri, serif;
+}
+.button{
+    background: #0160a1;
+    color: white;
+    padding: 5px;
+    margin: 5px 0;
+    border: none;
+    cursor: pointer;
+}
